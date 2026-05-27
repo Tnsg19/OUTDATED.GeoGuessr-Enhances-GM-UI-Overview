@@ -1,4 +1,4 @@
-# GeoGuessr Duels Browser Extension
+# GeoGuessr Duels Browser Extension [OUTDATED]
 
 ## Setup Instructions
 
